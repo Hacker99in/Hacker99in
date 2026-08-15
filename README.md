@@ -11,9 +11,7 @@
 <img src="https://komarev.com/ghpvc/?username=hacker99in&label=Profile%20Views&color=2575fc&style=for-the-badge" alt="Profile views" />
 <img src="https://img.shields.io/github/followers/hacker99in?label=Followers&style=for-the-badge&color=6a11cb" alt="Followers"/>
 
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=hacker99in&theme=tokyonight&no-frame=true&row=1&column=6" alt="trophy"/>
-</a>
+
 
 </div>
 
