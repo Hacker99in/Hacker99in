@@ -86,8 +86,6 @@
 <img src="https://raw.githubusercontent.com/hacker99in/hacker99in/output/github-contribution-grid-snake-dark.svg" width="95%" alt="Snake animation"/>
 </div>
 
-> ⚠️ This one needs a 2-minute one-time setup (a GitHub Action) before it appears — instructions below.
-
 <br/>
 
 <div align="center">
