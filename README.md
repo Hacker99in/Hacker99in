@@ -1,42 +1,95 @@
-<h1 align="center">Hi 👋, I'm ꧁HARSHVARDHAN PATIL꧂</h1>
-<h3 align="center">A passionate developer from India who loves building, experimenting & learning new technologies 🚀</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hacker99in&label=Profile%20views&color=0e75b6&style=flat" alt="hacker99in" /> </p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=220&section=header&text=Harshvardhan%20Patil&fontSize=44&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=Full-Stack%20Developer%20%7C%20Builder%20%7C%20Lifelong%20Learner&descAlignY=55&descSize=18" width="100%" alt="header"/>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hacker99in" alt="hacker99in" /></a> </p>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=24&pause=1000&color=2575FC&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Harshvardhan+%F0%9F%91%8B;A+passionate+developer+from+India+%F0%9F%87%AE%F0%9F%87%B3;I+learn+by+building%2C+breaking+%26+rebuilding+%F0%9F%94%A5;Welcome+to+my+profile+%E2%9C%A8" alt="Typing SVG" />
+</a>
 
-- 🔭 I’m currently working on [Personal Portfolio Website](https://hacker99in.github.io/portfolio/)
+<br/>
 
-- 🌱 I’m currently learning **React • JavaScript • GSAP • Node.js • SQL • Cybersecurity**
+<img src="https://komarev.com/ghpvc/?username=hacker99in&label=Profile%20Views&color=2575fc&style=for-the-badge" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/hacker99in?label=Followers&style=for-the-badge&color=6a11cb" alt="Followers"/>
 
-- 👨‍💻 All of my projects are available at [https://hacker99in.github.io/portfolio/](https://hacker99in.github.io/portfolio/)
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=hacker99in&theme=tokyonight&no-frame=true&row=1&column=6" alt="trophy"/>
+</a>
 
-- 📝 I regularly write articles on [Coming soon...](Coming soon...)
+</div>
 
+<br/>
+
+## 🚀 About Me
+
+- 🔭 Currently working on my **[Personal Portfolio Website](https://hacker99in.github.io/portfolio/)**
+- 🌱 Currently learning **React • JavaScript • GSAP • Node.js • SQL • Cybersecurity**
+- 👨‍💻 All my projects live at **[hacker99in.github.io/portfolio](https://hacker99in.github.io/portfolio/)**
+- 📝 First blog articles coming soon — stay tuned!
 - 💬 Ask me about **React, JavaScript, HTML, CSS, GSAP, Git & GitHub**
+- 📫 Reach me at **[08harshvarhan03@gmail.com](mailto:08harshvarhan03@gmail.com)**
+- 📄 See my full experience on my **[portfolio](https://hacker99in.github.io/portfolio/)**
+- ⚡ Fun fact: **I learn by building, breaking, and rebuilding things** 🔥
 
-- 📫 How to reach me **08harshvarhan03@gmail.com**
+<br/>
 
-- 📄 Know about my experiences [https://hacker99in.github.io/portfolio/](https://hacker99in.github.io/portfolio/)
+## 🌐 Connect With Me
 
-- ⚡ Fun fact **I learn by building, breaking, and rebuilding things 🔥**
+<div align="center">
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.instagram.com/_.vardhan.xharsh._/?hl=" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.vardhan.xharsh._" height="30" width="40" />
-  </a>
+<a href="https://www.instagram.com/_.vardhan.xharsh._/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+<a href="https://www.youtube.com/@HACKERZ_99" target="_blank">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+</a>
+<a href="mailto:08harshvarhan03@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
+<a href="https://hacker99in.github.io/portfolio/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-6a11cb?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+</a>
 
-  <a href="https://www.youtube.com/@HACKERZ_99" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="HACKERZ_99" height="30" width="40" />
-  </a>
-</p>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+<br/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hacker99in&show_icons=true&locale=en&layout=compact" alt="hacker99in" /></p>
+## 🛠️ Languages & Tools
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hacker99in&show_icons=true&locale=en" alt="hacker99in" /></p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,py,java,mysql,git,github,linux,figma,blender,arduino,unreal&theme=dark" alt="skills"/>
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hacker99in&" alt="hacker99in" /></p>
+<br/>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=hacker99in&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" alt="GitHub stats"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hacker99in&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top languages"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=hacker99in&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hacker99in&theme=dracula&hide_border=true" width="95%" alt="Activity graph"/>
+
+</div>
+
+<br/>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/hacker99in/hacker99in/output/github-contribution-grid-snake-dark.svg" width="95%" alt="Snake animation"/>
+</div>
+
+> ⚠️ This one needs a 2-minute one-time setup (a GitHub Action) before it appears — instructions below.
+
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,100:6a11cb&height=120&section=footer" width="100%" alt="footer"/>
+</div>
